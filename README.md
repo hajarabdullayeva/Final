@@ -5,28 +5,28 @@
 ### Bilet nömrəsinə diqqət edin. Yanlış seçilən bilet 0 bal ilə dəyərləndiriləcək.
 
 
-- Almaz Muradov ~ bilet 1
+- Almaz Muradov ~ bilet 2
 
-- Aynur İsrafilova  ~ bilet 3
+- Aynur İsrafilova  ~ bilet 10
 
-- Elmir Huseynov - Bilet 17
+- Elmir Huseynov - Bilet 12
   
-- Nuranə İsmayılzadə - Bilet 17
+- Nuranə İsmayılzadə - Bilet 14
 
-- Xanım Nuriyeva ~ bilet 2
+- Xanım Nuriyeva ~ bilet 7
 
-- Fidan Azizova - Bilet 18
+- Fidan Azizova - Bilet 3
 
-- Fatimə Axundzadə - Bilet 8
+- Fatimə Axundzadə - Bilet 4
   
-- Səbinə Hətəmli - Bilet 13
+- Səbinə Hətəmli - Bilet 1
  
-- Ləman Şamilova - Bilet 17
+- Ləman Şamilova - Bilet 13
 
-- Nərmin Musayeva - Bilet 17
+- Nərmin Musayeva - Bilet 8
   
-- Minayə Binnətova - Bilet 17
+- Minayə Binnətova - Bilet 11
   
-- Fidan Rəhimli - Bilet 17
+- Fidan Rəhimli - Bilet 6
   
-- Qızılgül Allahverdiyeva - Bilet 17
+- Qızılgül Allahverdiyeva - Bilet 9
