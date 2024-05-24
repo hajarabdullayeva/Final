@@ -5,17 +5,25 @@
 ### Bilet nömrəsinə diqqət edin. Yanlış seçilən bilet 0 bal ilə dəyərləndiriləcək.
 
 
-- Orxan Ismayilzade ~ bilet 1
+- Almaz Muradov ~ bilet 1
 
-- Sabina Bakirzada ~ bilet 3
+- Aynur İsrafilova  ~ bilet 3
 
-- Kazimli Vefa ~ bilet 2
-
-- Rugayya Abdullayeva - Bilet 18
-
-- Firuzə Kərimova - Bilet 8
+- Elmir Huseynov - Bilet 17
   
-- Aytac Qəhrəmanova - Bilet 13
+- Nuranə İsmayılzadə - Bilet 17
+
+- Xanım Nuriyeva ~ bilet 2
+
+- Fidan Azizova - Bilet 18
+
+- Fatimə Axundzadə - Bilet 8
+  
+- Səbinə Hətəmli - Bilet 13
  
-- Shahnaz Amiraslanova - Bilet 17
+- Ləman Şamilova - Bilet 17
+
+- Nərmin Musayeva - Bilet 17
+  
+
 
