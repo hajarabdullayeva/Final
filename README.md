@@ -1,4 +1,4 @@
-# BF-103-final
+# BF104-final
 
 ## Aşağıda verilən bilet nömrələrinə uyğun olan folderdakı tapşırığı yerinə yetirin.
 
@@ -25,5 +25,8 @@
 
 - Nərmin Musayeva - Bilet 17
   
-
-
+- Minayə Binnətova - Bilet 17
+  
+- Fidan Rəhimli - Bilet 17
+  
+- Qızılgül Allahverdiyeva - Bilet 17
